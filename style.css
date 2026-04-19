@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #000, #222);
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 120px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  color: #ccc;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: white;
+  color: black;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #00a3ee;
+  color: white;
+}
